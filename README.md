@@ -52,7 +52,7 @@ Feature Extraction techniques such as Eigenfaces and Fisherfaces analyze signifi
 
 ### Model
 
-Facial recognition model using Eigenfaces (uploaded in repository).
+Facial recognition model using Eigenfaces: [Link Text](Eigenface.ipynb).
 
 ## Conclusion
 
@@ -62,4 +62,4 @@ From this activity, I learned fundamental concepts of image processing technique
 
 ## Repository Contents
 
-- **Recorded pptx**: [Link Text](relative/path/to/file)
+- **Recorded pptx**: [Link Text]($4B-NIEGOS-MP1.docx)
