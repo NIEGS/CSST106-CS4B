@@ -62,4 +62,4 @@ From this activity, I learned fundamental concepts of image processing technique
 
 ## Repository Contents
 
-- **Recorded pptx**: [Link](screenrecord.MP4)
+- **Recorded pptx**: [Link](screenrecord.mp4)
