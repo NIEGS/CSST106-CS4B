@@ -52,7 +52,7 @@ Feature Extraction techniques such as Eigenfaces and Fisherfaces analyze signifi
 
 ### Model
 
-Facial recognition model using Eigenfaces: [Link Text](Eigenface.ipynb).
+Facial recognition model using Eigenfaces: [Link Text](Eigenfaces.py).
 
 ## Conclusion
 
