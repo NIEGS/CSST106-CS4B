@@ -50,6 +50,10 @@ Different individuals may have similar facial features, and the same individual 
 
 Feature Extraction techniques such as Eigenfaces and Fisherfaces analyze significant features distinguishing one face from another. These methods reduce confusion among similar-looking faces and enhance the system's ability to recognize the same person despite variations.
 
+## Repository Contents
+
+- **Recorded pptx**: [Link](screenrecord.mp4)
+
 ### Model
 
 Facial recognition model using Eigenfaces: [Link Text](Eigenface.py).
@@ -59,7 +63,3 @@ Facial recognition model using Eigenfaces: [Link Text](Eigenface.py).
 Effective image processing is essential for AI systems to accurately interpret and analyze visual information. It enhances image quality, extracts meaningful features, and enables sophisticated techniques like facial recognition. By isolating and emphasizing important features, AI systems can better understand and classify visual data, leading to higher accuracy in tasks such as object detection and recognition.
 
 From this activity, I learned fundamental concepts of image processing techniques, including preprocessing and feature extraction, and applied these to create a functional facial recognition system using Eigenfaces.
-
-## Repository Contents
-
-- **Recorded pptx**: [Link](screenrecord.mp4)
