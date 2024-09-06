@@ -52,7 +52,7 @@ Feature Extraction techniques such as Eigenfaces and Fisherfaces analyze signifi
 
 ## Repository Contents
 
-- **Recorded pptx**: [Link](screenrecord.mp4)
+https://github.com/user-attachments/assets/053f49bb-3b74-4eca-996e-a5e30edb8d2b
 
 ### Model
 
