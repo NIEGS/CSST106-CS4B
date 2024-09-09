@@ -1,4 +1,6 @@
-# Introduction to Computer Vision and Image Processing
+# Machine Problem 1
+
+## Introduction to Computer Vision and Image Processing
 
 ## Overview
 
