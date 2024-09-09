@@ -62,12 +62,15 @@ Effective image processing is essential for AI systems to accurately interpret a
 
 From this activity, I learned fundamental concepts of image processing techniques, including preprocessing and feature extraction, and applied these to create a functional facial recognition system using Eigenfaces.
 
-## References 
+## References
 
-(https://www.ibm.com/topics/computer-vision#:~:text=Computer%20vision%20is%20a%20field,they%20see%20defects%20or%20issues)
-2. **Face Detection**: Identifies and isolates the facial region within an image, simplifying the output. Methods like Viola-Jones are commonly used.
-3. **Resizing**: Adjusts the pixel dimensions of a facial image to standardize size for efficient recognition.
-4. **RGB to Grayscale Conversion**: Converts the image to grayscale for simpler computational processing and faster facial matching.
-5. **Feature Extraction**: Captures unique characteristics of a face using algorithms like Local Binary Patterns (LBP), Principal Component Analysis (PCA), Eigenfaces, Histogram of Oriented Gradients (HOG), or Convolutional Neural Networks (CNNs).
+1. **[What is computer vision?](https://www.ibm.com/topics/computer-vision#:~:text=Computer%20vision%20is%20a%20field,they%20see%20defects%20or%20issues)**  
+ 
+
+2. **[Image Processing: Techniques, Types, & Applications [2024](https://www.v7labs.com/blog/image-processing-guide)**  
+
+
+3. **[The workflow of the face recognition process in image matching](https://it.telkomuniversity.ac.id/en/the-workflow-of-the-face-recognition-process)**  
+
 
 # **MACHINE PROBLEM 2**
