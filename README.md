@@ -67,7 +67,7 @@ From this activity, I learned fundamental concepts of image processing technique
 1. **[What is computer vision?](https://www.ibm.com/topics/computer-vision#:~:text=Computer%20vision%20is%20a%20field,they%20see%20defects%20or%20issues)**  
  
 
-2. **[Image Processing: Techniques, Types, & Applications [2024](https://www.v7labs.com/blog/image-processing-guide)**  
+2. **[Image Processing: Techniques, Types, & Applications 2024](https://www.v7labs.com/blog/image-processing-guide)**  
 
 
 3. **[The workflow of the face recognition process in image matching](https://it.telkomuniversity.ac.id/en/the-workflow-of-the-face-recognition-process)**  
