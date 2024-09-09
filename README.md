@@ -1,4 +1,4 @@
-# Machine Problem 1
+# MACHINE PROBLEM 1
 
 ## Introduction to Computer Vision and Image Processing
 
@@ -61,3 +61,5 @@ https://github.com/user-attachments/assets/053f49bb-3b74-4eca-996e-a5e30edb8d2b
 Effective image processing is essential for AI systems to accurately interpret and analyze visual information. It enhances image quality, extracts meaningful features, and enables sophisticated techniques like facial recognition. By isolating and emphasizing important features, AI systems can better understand and classify visual data, leading to higher accuracy in tasks such as object detection and recognition.
 
 From this activity, I learned fundamental concepts of image processing techniques, including preprocessing and feature extraction, and applied these to create a functional facial recognition system using Eigenfaces.
+
+# MACHINE PROBLEM 2
