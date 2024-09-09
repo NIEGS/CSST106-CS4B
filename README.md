@@ -64,5 +64,10 @@ From this activity, I learned fundamental concepts of image processing technique
 
 ## References 
 
+(https://www.ibm.com/topics/computer-vision#:~:text=Computer%20vision%20is%20a%20field,they%20see%20defects%20or%20issues)
+2. **Face Detection**: Identifies and isolates the facial region within an image, simplifying the output. Methods like Viola-Jones are commonly used.
+3. **Resizing**: Adjusts the pixel dimensions of a facial image to standardize size for efficient recognition.
+4. **RGB to Grayscale Conversion**: Converts the image to grayscale for simpler computational processing and faster facial matching.
+5. **Feature Extraction**: Captures unique characteristics of a face using algorithms like Local Binary Patterns (LBP), Principal Component Analysis (PCA), Eigenfaces, Histogram of Oriented Gradients (HOG), or Convolutional Neural Networks (CNNs).
 
 # **MACHINE PROBLEM 2**
