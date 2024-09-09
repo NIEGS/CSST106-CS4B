@@ -56,10 +56,6 @@ Feature Extraction techniques such as Eigenfaces and Fisherfaces analyze signifi
 
 https://github.com/user-attachments/assets/053f49bb-3b74-4eca-996e-a5e30edb8d2b
 
-### Model
-
-Facial recognition model using Eigenfaces: [Link Text](Eigenface.py).
-
 ## Conclusion
 
 Effective image processing is essential for AI systems to accurately interpret and analyze visual information. It enhances image quality, extracts meaningful features, and enables sophisticated techniques like facial recognition. By isolating and emphasizing important features, AI systems can better understand and classify visual data, leading to higher accuracy in tasks such as object detection and recognition.
