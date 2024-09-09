@@ -62,4 +62,7 @@ Effective image processing is essential for AI systems to accurately interpret a
 
 From this activity, I learned fundamental concepts of image processing techniques, including preprocessing and feature extraction, and applied these to create a functional facial recognition system using Eigenfaces.
 
+## References 
+
+
 # **MACHINE PROBLEM 2**
