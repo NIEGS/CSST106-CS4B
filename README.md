@@ -74,3 +74,5 @@ From this activity, I learned fundamental concepts of image processing technique
 
 
 # **MACHINE PROBLEM 2**
+
+## Applying Image Processing Techniques
