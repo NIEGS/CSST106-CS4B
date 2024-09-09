@@ -1,4 +1,4 @@
-# MACHINE PROBLEM 1
+# **MACHINE PROBLEM 1** 
 
 ## Introduction to Computer Vision and Image Processing
 
@@ -62,4 +62,4 @@ Effective image processing is essential for AI systems to accurately interpret a
 
 From this activity, I learned fundamental concepts of image processing techniques, including preprocessing and feature extraction, and applied these to create a functional facial recognition system using Eigenfaces.
 
-# MACHINE PROBLEM 2
+# **MACHINE PROBLEM 2**
