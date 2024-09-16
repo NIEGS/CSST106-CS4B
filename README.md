@@ -99,3 +99,9 @@ You can access the Google Colab notebook using the following link:
 
 [MP2 Google Colab Link](https://colab.research.google.com/drive/16K4wTtSwAonYZo1GGsbcwrlnU6dC9PRk?usp=sharing)
 
+# 4B-NIEGOS-EXER1
+
+You can access the Google Colab notebook using the following link:
+
+[EXER1 Google Colab Link]([https://colab.research.google.com/drive/16K4wTtSwAonYZo1GGsbcwrlnU6dC9PRk?usp=sharing](https://colab.research.google.com/drive/1D6sseuwpondppx_-ZxkIvJtjRpnKcvia?usp=sharing))
+
