@@ -103,5 +103,5 @@ Access the Google Colab notebook of MP@ using the following link:
 
 Access the Google Colab notebook of EXER1 using the following link:
 
-[EXER1 Google Colab Link]([https://colab.research.google.com/drive/16K4wTtSwAonYZo1GGsbcwrlnU6dC9PRk?usp=sharing](https://colab.research.google.com/drive/1D6sseuwpondppx_-ZxkIvJtjRpnKcvia?usp=sharing))
+[EXER1 Google Colab Link]([https://colab.research.google.com/drive/16K4wTtSwAonYZo1GGsbcwrlnU6dC9PRk?usp=sharing])
 
