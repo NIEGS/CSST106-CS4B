@@ -77,7 +77,9 @@ From this activity, I learned fundamental concepts of image processing technique
 
 ## Applying Image Processing Techniques
 
-![Alt text](4B-NIEGOS-MP2/PPT/Screenshot 2024-09-09 221700.png)
+![Alt text](4B-NIEGOS-MP2/PPT/Screenshot%202024-09-09%20221606.png)
+
+
 
 
 
