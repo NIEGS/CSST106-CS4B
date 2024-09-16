@@ -93,6 +93,9 @@ From this activity, I learned fundamental concepts of image processing technique
 
 ![Alt text](4B-NIEGOS-MP2/PPT/Screenshot%202024-09-09%20221700.png)
 
-## MP2 Google Colab Link : https://colab.research.google.com/drive/16K4wTtSwAonYZo1GGsbcwrlnU6dC9PRk?usp=sharing
+## MP2 Google Colab Link
 
+You can access the Google Colab notebook using the following link:
+
+[MP2 Google Colab Link](https://colab.research.google.com/drive/16K4wTtSwAonYZo1GGsbcwrlnU6dC9PRk?usp=sharing)
 
