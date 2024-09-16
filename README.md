@@ -101,7 +101,13 @@ Access the Google Colab notebook of MP@ using the following link:
 
 # 4B-NIEGOS-EXER1
 
+![Alt text](4B-NIEGOS-EXER1/4B-NIEGOS-EXER1_page-0001[1].jpg)
 
+![Alt text](4B-NIEGOS-EXER1/4B-NIEGOS-EXER1_page-0002.jpg)
+
+![Alt text](4B-NIEGOS-EXER1/4B-NIEGOS-EXER1_page-0003.jpg)
+
+![Alt text](4B-NIEGOS-EXER1/4B-NIEGOS-EXER1_page-0004.jpg)
 
 Access the Google Colab notebook of EXER1 using the following link:
 
