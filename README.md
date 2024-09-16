@@ -79,6 +79,19 @@ From this activity, I learned fundamental concepts of image processing technique
 
 ![Alt text](4B-NIEGOS-MP2/PPT/Screenshot%202024-09-09%20221606.png)
 
+![Alt text](4B-NIEGOS-MP2/PPT/Screenshot%202024-09-09%20221614.png)
+
+![Alt text](4B-NIEGOS-MP2/PPT/Screenshot%202024-09-09%20221622.png)
+
+![Alt text](4B-NIEGOS-MP2/PPT/Screenshot%202024-09-09%20221629.png)
+
+![Alt text](4B-NIEGOS-MP2/PPT/Screenshot%202024-09-09%20221641.png)
+
+![Alt text](4B-NIEGOS-MP2/PPT/Screenshot%202024-09-09%20221647.png)
+
+![Alt text](4B-NIEGOS-MP2/PPT/Screenshot%202024-09-09%20221654.png)
+
+![Alt text](4B-NIEGOS-MP2/PPT/Screenshot%202024-09-09%20221700.png)
 
 
 
