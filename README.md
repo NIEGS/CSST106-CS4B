@@ -95,7 +95,7 @@ From this activity, I learned fundamental concepts of image processing technique
 
 ## MP2 Google Colab Link
 
-Access the Google Colab notebook of MP@ using the following link:
+Access the Google Colab notebook of MP2 using the following link:
 
 [MP2 Google Colab Link](https://colab.research.google.com/drive/16K4wTtSwAonYZo1GGsbcwrlnU6dC9PRk?usp=sharing)
 
