@@ -113,3 +113,9 @@ Access the Google Colab notebook of EXER1 using the following link:
 
 [EXER1 Google Colab Link](https://colab.research.google.com/drive/1D6sseuwpondppx_-ZxkIvJtjRpnKcvia?usp=sharing) 
 
+## Midterm Video Presentation
+
+For the midterm video presentation, click the link below:
+
+[link](https://drive.google.com/drive/folders/1ogODv_ybQDb1zz5_Nairu5_9fJHOFJMJ?usp=sharing))
+
